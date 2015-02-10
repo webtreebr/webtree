@@ -1,0 +1,23 @@
+{
+  "name": "Webtree",
+  "version": "1.0.0",
+  "description": "Webtree website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fabioseno/webtree"
+  },
+  "author": "Fabio Akira Yoshida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabioseno/webtree/issues"
+  },
+  "homepage": "https://github.com/fabioseno/webtree",
+  "dependencies": {
+    "express": "^4.11.2",
+    "jade": "^1.9.2"
+  }
+}
