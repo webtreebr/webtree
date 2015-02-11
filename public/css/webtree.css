@@ -32,7 +32,7 @@ div.container div {
 }
 
 a.contact {
-    display: block;
+    clear: both;
     margin-top: 40px;
     color: #b4d11c;
     font-weight: bold;
