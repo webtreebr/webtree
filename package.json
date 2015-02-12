@@ -18,6 +18,7 @@
   "homepage": "https://github.com/fabioseno/webtree",
   "dependencies": {
     "express": "^4.11.2",
-    "jade": "^1.9.2"
+    "jade": "^1.9.2",
+    "serve-favicon": "^2.2.0"
   }
 }
